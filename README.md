@@ -1,19 +1,19 @@
-# [Your Name]
+# Daine
 
 ## MERN Stack Developer | Python & C# Programmer | Professional Designer
 
 ---
 
 ### 👋 About Me
-Hello there! I'm [Your Name]. I specialize in full-stack web development using the MERN stack, with additional expertise in Python, C#, and professional design. Passionate about building responsive and intuitive web applications, I also have a flair for creating visually appealing designs.
+Hello there! I'm Daine. I specialize in full-stack web development using the MERN stack, with additional expertise in Python, C#, and professional design. Passionate about building responsive and intuitive web applications, I also have a flair for creating visually appealing designs.
 
 ---
 
 ### 🛠️ Skills
 - **Web Development**: MongoDB, Express.js, React, Node.js
 - **Programming Languages**: Python, C#, JavaScript
-- **Design**: [List specific design skills or tools, like Adobe Photoshop, UI/UX Design, etc.]
-- **Tools & Technologies**: [Other tools like Git, Docker, etc.]
+- **Design**: Adobe Suite , Figma
+- **Tools & Technologies**: Git
 
 ---
 
@@ -45,7 +45,7 @@ Hello there! I'm [Your Name]. I specialize in full-stack web development using t
 ---
 
 ### 📫 How to Reach Me
-- **Email**: [your.email@example.com]
+- **Email**: dainesembrano@gmail.com
 - **LinkedIn**: [LinkedIn Profile](#)
 - **GitHub**: [@YourGitHubUsername](#)
 
