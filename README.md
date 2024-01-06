@@ -1,11 +1,11 @@
-# Daine
+# Deyndev
 
 ## MERN Stack Developer | Python & C# Programmer | Professional Designer
 
 ---
 
 ### 👋 About Me
-Hello there! I'm Daine. I specialize in full-stack web development using the MERN stack, with additional expertise in Python, C#, and professional design. Passionate about building responsive and intuitive web applications, I also have a flair for creating visually appealing designs.
+Hello there! I'm Deyndev. I specialize in full-stack web development using the MERN stack, with additional expertise in Python, C#, and professional design. Passionate about building responsive and intuitive web applications, I also have a flair for creating visually appealing designs.
 
 ---
 
@@ -45,7 +45,7 @@ Hello there! I'm Daine. I specialize in full-stack web development using the MER
 ---
 
 ### 📫 How to Reach Me
-- **Email**: dainesembrano@gmail.com
+- **Email**: deeynhantah@gmail.com
 - **LinkedIn**: [LinkedIn Profile](#)
 - **GitHub**: [@YourGitHubUsername](#)
 
