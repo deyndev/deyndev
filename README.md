@@ -28,7 +28,7 @@ Hello there! I'm Deyndev. I specialize in full-stack web development using the M
 
 ### 📫 How to Reach Me
 - **Email**: deeynhantah@gmail.com
-- **GitHub**: [@iceseeu](https://github.com/iceseeu/)
+- **GitHub**: [@iceseeu](https://github.com/deyndev/)
 
 ---
 
