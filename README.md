@@ -3,7 +3,7 @@
 ## MERN Stack Developer | Python & C# Programmer | Professional Designer
 
 ### 🌐 Most Used Languages
-![Deyndev's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceseeu&layout=compact&theme=vue)
+![Deyndev's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deyndev&layout=compact&theme=vue)
 
 
 ---
