@@ -13,40 +13,17 @@ Hello there! I'm Deyndev. I specialize in full-stack web development using the M
 - **Web Development**: MongoDB, Express.js, React, Node.js
 - **Programming Languages**: Python, C#, JavaScript
 - **Design**: Adobe Suite , Figma
-- **Tools & Technologies**: Git
-
----
-
-### 🌟 Portfolio
-- **Project 1**
-  - Description: [Short project description]
-  - Technologies: [Tech used]
-  - [GitHub Repo](#) | [Live Demo](#)
-- **Project 2**
-  - Description: [Short project description]
-  - Technologies: [Tech used]
-  - [GitHub Repo](#) | [Live Demo](#)
-- [More Projects...](#)
-
----
-
-### 💼 Work Experience
-- **Job Title** - [Company Name] (Month Year - Present)
-  - Brief description of your role and accomplishments.
-- **Previous Job Title** - [Previous Company Name] (Month Year - Month Year)
-  - Brief description of your role and accomplishments.
 
 ---
 
 ### 🎓 Education
-- **Degree** - [University Name] (Year-Year)
-- **Certification or Course** - [Institute/Organization]
+- **Degree** - [STI College Dasmarinas] (2021-2025)
+- **Certification or Course** - [Bachellor of Science in Information Technology]
 
 ---
 
 ### 📫 How to Reach Me
 - **Email**: deeynhantah@gmail.com
-- **LinkedIn**: [LinkedIn Profile](#)
 - **GitHub**: [@iceseeu](https://github.com/iceseeu/)
 
 ---
