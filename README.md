@@ -1,4 +1,4 @@
-# Deyndev
+**# Deyndev
 
 ## MERN Stack Developer | Python & C# Programmer | Professional Designer
 
@@ -33,3 +33,4 @@ Hello there! I'm Deyndev. I specialize in full-stack web development using the M
 Feel free to connect with me for collaborations or just a chat!
 
 <img width="1000" alt="AA Logo - White@2x" src="https://github.com/deyndev/deyndev/assets/78830982/383e673a-8066-4403-8cf0-ddd16edb0811">
+**
