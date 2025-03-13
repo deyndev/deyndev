@@ -1,7 +1,7 @@
 # 👨‍💻 Deyndev
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Deyndev&fontSize=80&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Designer%20|%20Problem%20Solver&descAlignY=55&descAlign=62" width="100%" />
+<img width="1000" alt="AA Logo - White@2x" src="https://github.com/deyndev/deyndev/assets/78830982/383e673a-8066-4403-8cf0-ddd16edb0811">
 </div>
 
 <div align="center">
