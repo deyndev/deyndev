@@ -42,7 +42,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+<img align="right" height="150" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Guy with Glasses" />
 
 > Hello there! I'm Deyndev, a passionate full-stack developer focused on creating engaging digital experiences.
 
@@ -94,11 +94,6 @@ I specialize in full-stack web development using the MERN stack, with additional
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=deyndev&theme=vue&hide_border=true" />
 </a>
 
-<!-- Random Dev Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:3498DB&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" alt="Footer" />
 </div>
