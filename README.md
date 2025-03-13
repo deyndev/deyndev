@@ -42,20 +42,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=deyndev&theme=flat&column=7" alt="GitHub Trophies" />
 </p>
 
-## 🔥 Projects & Contributions
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deyndev&repo=your-repo-name&theme=vue" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deyndev&repo=your-other-repo&theme=vue" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=deyndev&limit=5&theme=vue&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</div>
 
 ## 👨‍💻 About Me
 
