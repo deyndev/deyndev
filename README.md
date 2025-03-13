@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,html,css,js,ts" />
   <!-- Backend -->
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,flask,php,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,php,mongodb,mysql" />
   <!-- Tools & Design -->
   <h3>Tools & Design</h3>
   <img src="https://skillicons.dev/icons?i=python,cs,git,figma,vscode,docker" />
@@ -38,9 +38,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deyndev&theme=vue" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deyndev&theme=flat&column=7" alt="GitHub Trophies" />
-</p>
 
 
 ## 👨‍💻 About Me
