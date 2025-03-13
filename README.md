@@ -95,5 +95,5 @@ I specialize in full-stack web development using the MERN stack, with additional
 </a>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:3498DB&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 </div>
