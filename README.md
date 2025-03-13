@@ -95,5 +95,10 @@ I specialize in full-stack web development using the MERN stack, with additional
 </a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  
+  <br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+  
+  <p>⭐️ From <a href="https://github.com/deyndev">deyndev</a> with 💻</p>
 </div>
