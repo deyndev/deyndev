@@ -1,31 +1,31 @@
 # 👨‍💻 Deyndev
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Deyndev&fontSize=80&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Designer%20|%20Problem%20Solver&descAlignY=55&descAlign=62" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer;Full+Stack+Engineer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deyndev&label=Profile%20Views&color=2ecc71&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/deyndev?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Builder.io-000000?style=for-the-badge&logo=builder.io&logoColor=white" alt="Builder.io" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+<div align="center">
+  <!-- Frontend -->
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,html,css,js,ts" />
+  <!-- Backend -->
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,flask,php,mongodb,mysql" />
+  <!-- Tools & Design -->
+  <h3>Tools & Design</h3>
+  <img src="https://skillicons.dev/icons?i=python,cs,git,figma,vscode,docker" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -38,7 +38,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deyndev&theme=vue" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deyndev&theme=flat&column=7" alt="GitHub Trophies" />
+</p>
+
+## 🔥 Projects & Contributions
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deyndev&repo=your-repo-name&theme=vue" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deyndev&repo=your-other-repo&theme=vue" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=deyndev&limit=5&theme=vue&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</div>
+
 ## 👨‍💻 About Me
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
 
 > Hello there! I'm Deyndev, a passionate full-stack developer focused on creating engaging digital experiences.
 
@@ -48,6 +69,26 @@ I specialize in full-stack web development using the MERN stack, with additional
 - **Bachelor of Science in Information Technology** - STI College Dasmarinas (2021-2025)
 
 ## 🌱 Currently Learning
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" alt="GraphQL" />
+        <br>GraphQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" />
+        <br>Kubernetes
+      </td>
+    </tr>
+  </table>
+</div>
+
 - Advanced Next.js patterns
 - Microservices architecture
 - UI/UX best practices
@@ -55,15 +96,25 @@ I specialize in full-stack web development using the MERN stack, with additional
 
 ## 📫 Let's Connect
 
-<p align="center">
+<div align="center">
   <a href="mailto:deeynhantah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/deyndev/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add LinkedIn or other socials if you have them -->
-</p>
+  <!-- Add more social links here with badges -->
+</div>
+
+<!-- Activity graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=deyndev&theme=vue&hide_border=true" />
+</a>
+
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
