@@ -38,15 +38,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deyndev&theme=vue" alt="GitHub Streak" />
 </p>
 
-## 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/deyndev/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deyndev&repo=your-repo-name&theme=vue" alt="Featured Project" />
-  </a>
-  <!-- Add more projects as needed -->
-</p>
-
 ## 👨‍💻 About Me
 
 > Hello there! I'm Deyndev, a passionate full-stack developer focused on creating engaging digital experiences.
