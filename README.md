@@ -1,7 +1,7 @@
 # 👨‍💻 Deyndev
 
 <div align="center">
-<img width="1000" alt="AA Logo - White@2x" src="https://github.com/deyndev/deyndev/assets/78830982/383e673a-8066-4403-8cf0-ddd16edb0811">
+<img width="500" alt="AA Logo - White@2x" src="https://github.com/deyndev/deyndev/assets/78830982/383e673a-8066-4403-8cf0-ddd16edb0811">
 </div>
 
 <div align="center">
