@@ -30,10 +30,6 @@ I design and build performant, user‑centric web applications across the stack.
 - Typical builds: auth + RBAC, CRUD dashboards, REST APIs with validation, file uploads, pagination/search, charts, and CI/CD.
 - If helpful, I can prepare a small public sample app on request.
 
-## Experience (if applicable)
-<!-- Add internships, freelance, or notable contributions. Use action verbs + outcomes. -->
-- Role — Company/Project (Dates): what you built, tech used, impact/result.
-
 ## Education
 - Bachelor of Science in Information Technology — STI College Dasmarinas (2021–2025)
 
@@ -52,7 +48,7 @@ I design and build performant, user‑centric web applications across the stack.
 - Email: dainelestersembrano@gmail.com
 - GitHub: https://github.com/deyndev
 - LinkedIn: https://www.linkedin.com/in/dainesembrano/
-- Resume: LINK_TO_PDF
+- Resume: I can send it upon recruiter request.
 
 <!-- Optional: If you keep GitHub stat cards, show at most one simple card.
      Avoid counters/animations; they distract from substance for recruiters. -->
