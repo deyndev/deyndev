@@ -1,54 +1,101 @@
-<!--
-Tip: Keep this profile README concise and outcome-focused.
-Replace placeholders like FULL_NAME, LOCATION, LINKEDIN_URL, and add 3–5 real projects.
-Recruiters scan quickly—lead with impact, not animations or counters.
--->
+# Hey, I'm Daine 👋
 
-# Full‑Stack Developer (MERN) — "deyndev"
+### Full-Stack Developer — Svelte • Rust • Deno • MongoDB
 
-I design and build performant, user‑centric web applications across the stack. My strengths are product thinking, clean APIs, accessible UI, and shipping features that solve real problems.
+I build fast, reliable, and user-focused web applications using modern technologies. My focus is on **performance**, **type safety**, and **developer experience**.
 
-<!-- Optional: replace with your full name for extra polish -->
-<!-- # FULL_NAME ("deyndev") -->
+---
 
-## Summary
-- Full‑stack focus: React/Next.js, Node/Express, TypeScript/JavaScript
-- Backend/API design, authentication/authorization, testing, CI/CD
-- UI/UX collaboration: design systems, component libraries, Figma handoff
-- Databases: MongoDB, MySQL; caching and basic performance tuning
-- Bonus skills: Python, C#, PHP, Svelte; Docker and basic cloud
+## 🛠️ Tech Stack
 
-## Core Skills
-- Frontend: React, Next.js, Svelte, HTML5, CSS3, Tailwind, TypeScript
-- Backend: Node.js, Express, REST APIs, Flask, PHP
-- Data: MongoDB, Mongoose, MySQL, SQL fundamentals
-- Testing/Quality: Jest, React Testing Library, Postman, ESLint/Prettier
-- DevOps/Tools: Git/GitHub, Docker, CI/CD basics, VS Code, Figma
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte" />
+      <br><strong>Svelte</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
+      <br><strong>Rust</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" width="48" height="48" alt="Deno" />
+      <br><strong>Deno</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+  </tr>
+</table>
 
-## Case Studies (private)
-- I currently work with private repositories. I can share code samples, architecture walk‑throughs, and short demos during interviews.
-- Typical builds: auth + RBAC, CRUD dashboards, REST APIs with validation, file uploads, pagination/search, charts, and CI/CD.
-- If helpful, I can prepare a small public sample app on request.
+### Primary Stack
+| Layer | Technology |
+|-------|------------|
+| **Frontend** | Svelte / SvelteKit, TypeScript, TailwindCSS |
+| **Backend** | Rust (Actix-web, Axum), Deno (Fresh, Oak) |
+| **Database** | MongoDB, Redis |
+| **DevOps** | Docker, GitHub Actions, Deno Deploy |
 
-## Education
-- Bachelor of Science in Information Technology — STI College Dasmarinas (2021–2025)
+### Additional Skills
+- **Languages:** TypeScript, Rust, JavaScript, Python
+- **Other Frontend:** React, Next.js, HTML5, CSS3
+- **Other Backend:** Node.js, Express, REST APIs
+- **Testing:** Vitest, Playwright, Rust testing
+- **Tools:** Git, VS Code, Figma, Postman
 
-## Currently Learning
-- AWS fundamentals and deployment workflows
-- GraphQL schema/design patterns
-- Kubernetes basics and container orchestration
-- Advanced Next.js patterns, microservices, UI/UX best practices
+---
 
-## How I Work
-- Pragmatic: ship iteratively with clean, readable code and tests where it matters
-- Collaborative: frequent PRs, constructive reviews, and clear documentation
-- Product‑minded: prioritize user value and performance over novelty
+## 💼 What I Build
 
-## Contact
-- Email: dainelestersembrano@gmail.com
-- GitHub: https://github.com/deyndev
-- LinkedIn: https://www.linkedin.com/in/dainesembrano/
-- Resume: I can send it upon recruiter request.
+> I currently work with **private repositories**. I can share code samples, architecture walk-throughs, and short demos during interviews.
 
-<!-- Optional: If you keep GitHub stat cards, show at most one simple card.
-     Avoid counters/animations; they distract from substance for recruiters. -->
+**Typical projects include:**
+- 🔐 Authentication systems with RBAC
+- 📊 CRUD dashboards and admin panels
+- 🚀 High-performance REST/GraphQL APIs
+- 📁 File uploads and media handling
+- 📈 Real-time features and data visualization
+- ⚡ Serverless functions and edge deployments
+
+*I can prepare a small public sample app upon request.*
+
+---
+
+## 📚 Education
+
+**Bachelor of Science in Information Technology**  
+STI College Dasmariñas — 2021 to 2025
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Rust patterns and systems programming
+- WebAssembly (WASM) for frontend performance
+- Distributed systems and microservices
+- AWS/Cloud deployment workflows
+- UI/UX design principles
+
+---
+
+## 🤝 How I Work
+
+- **Performance-first:** I optimize for speed and efficiency
+- **Type-safe:** Strong typing with TypeScript and Rust
+- **Collaborative:** Clear PRs, code reviews, and documentation
+- **User-focused:** Features that solve real problems
+
+---
+
+## 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-dainelestersembrano%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dainelestersembrano@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-deyndev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deyndev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dainesembrano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dainesembrano/)
+
+---
+
+<p align="center">
+  <em>Open to opportunities — Resume available upon request</em>
+</p>
