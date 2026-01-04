@@ -1,12 +1,20 @@
-# Hey, I'm Daine 👋
+<p align="center">
+  <a href="https://github.com/deyndev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Daine+%F0%9F%91%8B;Full-Stack+Developer;Svelte+%E2%80%A2+Rust+%E2%80%A2+Deno+%E2%80%A2+MongoDB;Building+Fast+%26+Reliable+Apps" alt="Typing SVG" />
+  </a>
+</p>
 
-### Full-Stack Developer — Svelte • Rust • Deno • MongoDB
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deyndev&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile views" />
+</p>
+
+---
 
 I build fast, reliable, and user-focused web applications using modern technologies. My focus is on **performance**, **type safety**, and **developer experience**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -46,40 +54,62 @@ I build fast, reliable, and user-focused web applications using modern technolog
 
 ---
 
-## 💼 What I Build
+## GitHub Stats
 
-> I currently work with **private repositories**. I can share code samples, architecture walk-throughs, and short demos during interviews.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deyndev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=deyndev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
 
-**Typical projects include:**
-- 🔐 Authentication systems with RBAC
-- 📊 CRUD dashboards and admin panels
-- 🚀 High-performance REST/GraphQL APIs
-- 📁 File uploads and media handling
-- 📈 Real-time features and data visualization
-- ⚡ Serverless functions and edge deployments
-
-*I can prepare a small public sample app upon request.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyndev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
-## 📚 Education
+## What I'm Building
+
+I specialize in building **production-ready applications** with enterprise-grade architecture.
+
+**My expertise includes:**
+- **Authentication & Authorization** — OAuth, JWT, RBAC systems
+- **Admin Dashboards** — Real-time data visualization, CRUD operations
+- **High-Performance APIs** — REST/GraphQL with Rust & Deno backends
+- **File & Media Systems** — Upload handling, CDN integration
+- **Edge & Serverless** — Deno Deploy, Cloudflare Workers
+
+<details>
+<summary><strong>Portfolio & Code Samples</strong> (click to expand)</summary>
+<br>
+
+Most of my production work is in private repositories for clients and employers. However, I'm happy to provide:
+
+- **Live demos** of my work during interviews
+- **Architecture walk-throughs** explaining design decisions
+- **Code samples** showcasing specific implementations
+- **Technical discussions** about challenges I've solved
+
+*Reach out and I'll prepare relevant examples for your tech stack.*
+</details>
+
+---
+
+## Education
 
 **Bachelor of Science in Information Technology**  
 STI College Dasmariñas — 2021 to 2025
 
 ---
 
-## 🌱 Currently Learning
+## Currently Exploring
 
-- Advanced Rust patterns and systems programming
-- WebAssembly (WASM) for frontend performance
-- Distributed systems and microservices
-- AWS/Cloud deployment workflows
-- UI/UX design principles
+- **Systems Programming** — Advanced Rust patterns, WebAssembly
+- **Cloud & DevOps** — AWS deployments, distributed systems
+- **Design** — UI/UX principles for better user experiences
 
 ---
 
-## 🤝 How I Work
+## How I Work
 
 - **Performance-first:** I optimize for speed and efficiency
 - **Type-safe:** Strong typing with TypeScript and Rust
@@ -88,7 +118,7 @@ STI College Dasmariñas — 2021 to 2025
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-dainelestersembrano%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dainelestersembrano@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-deyndev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deyndev)
@@ -97,5 +127,7 @@ STI College Dasmariñas — 2021 to 2025
 ---
 
 <p align="center">
-  <em>Open to opportunities — Resume available upon request</em>
+  <strong>2025 Graduate | Open to Full-Time Opportunities</strong>
+  <br>
+  <em>Let's build something great together — Resume available upon request</em>
 </p>
