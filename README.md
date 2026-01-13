@@ -51,14 +51,6 @@ I am a **Full-Stack Software Engineer (2025 Graduate)** dedicated to building ap
 
 ---
 
-### 📊 Engineering Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deyndev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deyndev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-</p>
-
----
 
 ### 📂 Professional Philosophy
 <details>
