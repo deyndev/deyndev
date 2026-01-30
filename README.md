@@ -67,7 +67,7 @@ I am a **Full-Stack Software Engineer (2025 Graduate)** dedicated to building ap
 <summary><b>Education & Certifications</b></summary>
 <br>
 
-- **B.S. in Information Technology** | STI College Dasmariñas (2021 - 2025)
+- **B.S. in Information Technology** 
 - Specialized in Advanced Web Systems and Software Architecture.
 </details>
 
