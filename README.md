@@ -1,4 +1,4 @@
-hi, i'm **dain**.
+hi, i'm **daine**.
 
 i write backend code — mostly rust, typescript, and go.
 
